@@ -1,0 +1,9 @@
+"sigmarp"
+{
+	"base"		    "base"
+	"title"		    "Sigma RP"
+	"maps"		    "^sigma_"
+	"category"	    "rp"
+	"menusystem"	"1"
+	"workshopid"	"1"
+}
